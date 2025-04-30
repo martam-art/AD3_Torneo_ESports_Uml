@@ -1,8 +1,8 @@
 # Sistema de Gestión de Torneos de eSports
 
 ## Autor
-Marta Mercado Aguilar
-martam-art
+- Marta Mercado Aguilar
+- Github: martam-art
 
 ## Descripción del Proyecto
 
